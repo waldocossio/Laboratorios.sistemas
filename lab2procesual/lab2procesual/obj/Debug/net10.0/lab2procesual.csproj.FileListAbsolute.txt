@@ -1,0 +1,14 @@
+C:\Users\WALDO\Documents\lab2procesual\lab2procesual\bin\Debug\net10.0\lab2procesual.exe
+C:\Users\WALDO\Documents\lab2procesual\lab2procesual\bin\Debug\net10.0\lab2procesual.deps.json
+C:\Users\WALDO\Documents\lab2procesual\lab2procesual\bin\Debug\net10.0\lab2procesual.runtimeconfig.json
+C:\Users\WALDO\Documents\lab2procesual\lab2procesual\bin\Debug\net10.0\lab2procesual.dll
+C:\Users\WALDO\Documents\lab2procesual\lab2procesual\bin\Debug\net10.0\lab2procesual.pdb
+C:\Users\WALDO\Documents\lab2procesual\lab2procesual\obj\Debug\net10.0\lab2procesual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WALDO\Documents\lab2procesual\lab2procesual\obj\Debug\net10.0\lab2procesual.AssemblyInfoInputs.cache
+C:\Users\WALDO\Documents\lab2procesual\lab2procesual\obj\Debug\net10.0\lab2procesual.AssemblyInfo.cs
+C:\Users\WALDO\Documents\lab2procesual\lab2procesual\obj\Debug\net10.0\lab2procesual.csproj.CoreCompileInputs.cache
+C:\Users\WALDO\Documents\lab2procesual\lab2procesual\obj\Debug\net10.0\lab2procesual.dll
+C:\Users\WALDO\Documents\lab2procesual\lab2procesual\obj\Debug\net10.0\refint\lab2procesual.dll
+C:\Users\WALDO\Documents\lab2procesual\lab2procesual\obj\Debug\net10.0\lab2procesual.pdb
+C:\Users\WALDO\Documents\lab2procesual\lab2procesual\obj\Debug\net10.0\lab2procesual.genruntimeconfig.cache
+C:\Users\WALDO\Documents\lab2procesual\lab2procesual\obj\Debug\net10.0\ref\lab2procesual.dll
